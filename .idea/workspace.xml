@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4890e70-00e0-45a2-b4b7-bdad3a94d282" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/application/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/application/TodoEndPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/application/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/views/todo/todo-view.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/todo/todo-view.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/application/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/application/Todo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "2c2ef2511942ea9367bbaab074232aec",
     "ts.external.directory.path": "/home/durjoy/Music/todo-application/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -85,7 +86,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692561280540</updated>
-      <workItem from="1692561283472" duration="2826000" />
+      <workItem from="1692561283472" duration="4718000" />
+      <workItem from="1692702662113" duration="1701000" />
     </task>
     <servers />
   </component>
